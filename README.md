@@ -11,4 +11,6 @@ Either the self-contained or the dump folder should work.
 
 On MySQL workbench, you can just:
 
-`Server > Data import > Select the path to the file/folder`
+1 - `Server > Data import > Select the path to the file/folder`
+2 - Click on New to create a schema and give it a name
+3 - Start import (fir your window if you don't see the button)
